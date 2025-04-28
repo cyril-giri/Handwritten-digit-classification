@@ -47,3 +47,11 @@ Install the following packages if running locally:
 
 ```bash
 pip install opencv-python scikit-learn numpy matplotlib
+```
+
+## For Quick testing
+> Load the collab file
+
+> Load the models
+
+> Run the collab cells for loading and testing | exclude the dataset
